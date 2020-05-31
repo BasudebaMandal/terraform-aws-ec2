@@ -1,0 +1,5 @@
+private_key_path = "C:\\TerraformLearning\\ec2-key.pem"
+public_key_path = "C:\\TerraformLearning\\ec2-key.key"
+#key_name = "terraform-learn"
+access_key = "AKIAQZYTY253HLH7WUN4"
+secret_key = "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"
